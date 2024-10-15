@@ -13,3 +13,6 @@
 - Trend Analysis: Identifying patterns and trends in discussions and engagement over time.
 - Network Analysis: Mapping the connections between different actors involved in the conflicts, including individuals, organizations, and governments.
 - Predictive Modeling: Forecasting future trends in social media engagement and their potential impact on the conflicts.
+
+### Link to Dataset:
+- https://www.kaggle.com/datasets/kanchana1990/social-media-hashtag-research-on-global-conflicts/data?select=conflicts_hashtag_search.csv
